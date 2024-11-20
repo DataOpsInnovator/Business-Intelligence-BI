@@ -7,7 +7,7 @@ This repository contains resources related to Business Intelligence, including E
 ## Contents:
 - ETL scripts and workflows for preparing data for analysis.
 - SQL queries and stored procedures for reporting and data analysis.
-- Power BI or Tableau dashboard templates and reports.
+- Power BI dashboard templates and reports.
 - Business Intelligence best practices and techniques for data visualization.
 
 ## Getting Started:
