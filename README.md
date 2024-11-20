@@ -15,6 +15,6 @@ This repository contains resources related to Business Intelligence, including E
 
          git clone https://github.com/DataOpsInnovator/Business-Intelligence-BI-.git
 
-2. Open and modify the Power BI or Tableau reports by importing the provided dataset (where applicable).
+2. Open and modify the Power BI reports by importing the provided dataset (where applicable).
 
 3. Review the ETL scripts to learn how to transform raw data into actionable insights.
